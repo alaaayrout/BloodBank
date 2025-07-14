@@ -27,7 +27,6 @@
 -  الاء خالد عيروط
 -  حسين عبدالله السيد احمد
 -  علي مصطفى الاغا
-- ...
 
 ---
 
@@ -37,16 +36,16 @@
 
 ##  كيفية التشغيل
 1. استنساخ المشروع
-   git clone https://github.com/alaaayrout/BloodBank.git
-   cd BloodBank
+   - git clone https://github.com/alaaayrout/BloodBank.git
+   -  cd BloodBank
 2. إنشاء البيئة الافتراضية وتشغيل السيرفر
- python -m venv virtual
-.\virtual\Scripts\activate
-pip install django
-pip install djangorestframework
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+-  python -m venv virtual
+- .\virtual\Scripts\activate
+- pip install django
+- pip install djangorestframework
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py runserver
 
 ---
 
